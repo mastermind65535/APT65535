@@ -12,7 +12,7 @@ Advanced Persistent Threat 65535 PoC Spyware
 > Be sure to read the license before using the project.
 
 # Purposes
-> This project is a **Proof of Concept (PoC) malware designed for showcase purposes only**. It was developed for Red Team purposes to measure the attack surface and evaluate how much information could be leaked after a security breach. The goal is to demonstrate potential scenarios that could occur if a system were compromised, highlighting the importance of effective security measures and incident response strategies.
+> This project is a **Proof of Concept (PoC) malware designed for <ins>showcase purposes only</ins>**. It was developed for Red Team purposes to measure the attack surface and evaluate how much information could be leaked after a security breach. The goal is to demonstrate potential scenarios that could occur if a system were compromised, highlighting the importance of effective security measures and incident response strategies.
 
 # Features
 ## Privilege Escalation
